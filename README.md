@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo The Next Web (clone)](https://el28dev.github.io/New/.)
+[Live Demo The Next Web (Replica)](https://el28dev.github.io/New/.)
 
 ## Authors
 
@@ -38,6 +38,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
+
 - Inspiration
 - etc
 
