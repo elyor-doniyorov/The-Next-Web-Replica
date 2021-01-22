@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo The Next Web (clone)](https://el28dev.github.io/TNW_project/.)
+[Live Demo The Next Web (clone)](https://el28dev.github.io/New/.)
 
 ## Authors
 
