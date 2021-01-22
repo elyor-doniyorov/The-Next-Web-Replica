@@ -44,4 +44,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/EL28DEV/TNW_project/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/EL28DEV/The-Next-Web-Replica/blob/add-license-1/LICENSE) licensed.
