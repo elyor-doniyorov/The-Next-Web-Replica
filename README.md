@@ -29,7 +29,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/EL28DEV/TNW_project/issues).
+Feel free to check the [issues page](https://github.com/EL28DEV/The-Next-Web-Replica/tree/main/.github/ISSUE_TEMPLATE).
 
 ## Show your support
 
