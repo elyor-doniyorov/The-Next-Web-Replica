@@ -1005,26 +1005,68 @@
   
    /* 763px devices and up  */
     
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 763px) {
       .mobile-navbar {
         display: none;
       } 
 
-      .latest-box {
+      .latest-box,
+      .deals-box {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr ;
         grid-template-rows: 1fr 1fr 1fr;
         gap: 1%;
       }
 
+      .section-v-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        gap: 10px;
+      }
+
       .latest-news-details h4 {
         max-width: 280px;
         height: auto;
       }
+
+      .hide-at-767 {
+        display: none;
+      }
+
+      .funding-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+      }
+
+      /* .footer {
+        width: 100%;
+      }
+    
+      .footer-social-links {
+          margin-left: 10px;
+          width: 100%;
+      }
+  
+      .footer-menu-links {
+        margin-left: 10px;
+        width: 100%;
+      }
+  
+      .footer-menu-links a {
+        padding: 10px;
+        margin: 0;
+      } */
+
     }
     
-    @media only screen and (max-width: 1024px) { }
-  
+    @media only screen and (max-width: 1024px) {
+
+      .hide-at-767 {
+        display: none;
+      }
+    }
   
   
    /* Large devices (laptops/desktops, 1023pxand up) */
@@ -1036,6 +1078,51 @@
         max-width: 1192px;
         margin: 0 auto;
       }
+
+      .latest-box,
+      .deals-box {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 10px;
+     }
+
+     .section-v-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr;
+      gap: 10px;
+    }
+
+    .funding-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-template-rows: 1fr;
+    }
+
+    .hide-at-767 {
+      display: grid;
+    }
+     
+
+    /* .footer {
+      width: 100%;
+    }
+  
+    .footer-social-links {
+        margin-left: 10px;
+        width: 100%;
+    }
+
+    .footer-menu-links {
+      margin-left: 10px;
+      width: 100%;
+    }
+
+    .footer-menu-links a {
+      padding: 10px;
+      margin: 0;
+    } */
     
     }
   
