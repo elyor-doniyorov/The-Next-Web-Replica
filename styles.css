@@ -89,6 +89,82 @@ body {
   color: darkgray;
 }
 
+.latest-links-boxes a {
+  text-decoration: none;
+  color: silver;
+}
+
+.latest-funding-header a {
+  text-decoration: none;
+  color: rgb(250, 117, 64);
+}
+
+.row-box a {
+  text-decoration: none;
+  position: relative;
+  display: block;
+}
+
+.invest-card a {
+  color: black;
+}
+
+.row-box-bottom a {
+  text-decoration: none;
+  color: black;
+}
+
+.section-v-row a {
+  text-decoration: none;
+}
+
+.v-row-header a {
+  color: white;
+}
+
+.v-row-authors a {
+  color: darkgray;
+}
+
+.header-h4 a {
+  color: rgb(250, 117, 64);
+}
+
+.v-row-headline a {
+  font-weight: lighter;
+  color: black;
+}
+
+.deals-links-boxes a {
+  text-decoration: none;
+  color: silver;
+}
+
+.footer a {
+  padding: 5px 20px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer-social-links a {
+  width: 100%;
+  background: #333;
+  border-radius: 50%;
+  display: block;
+  height: 40px;
+  padding: 12px;
+  text-align: center;
+}
+
+.footer-menu-links a {
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: darkgray;
+  font-weight: lighter;
+  font-size: 17px;
+  word-spacing: 2px;
+}
+
 .nav-top li a {
   text-decoration: none;
   color: rgb(148, 146, 146);
@@ -300,11 +376,6 @@ li {
   font-weight: bold;
 }
 
-.latest-links-boxes a {
-  text-decoration: none;
-  color: silver;
-}
-
 .latest-news-box1-img img {
   width: 270px;
   height: 150px;
@@ -338,23 +409,12 @@ li {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.latest-funding-header a {
-  text-decoration: none;
-  color: rgb(250, 117, 64);
-}
-
 .funding-row {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: auto;
   gap: 10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.row-box a {
-  text-decoration: none;
-  position: relative;
-  display: block;
 }
 
 .stackpath img {
@@ -367,6 +427,17 @@ li {
   width: 40px;
   height: 30px;
   padding-top: 20px;
+}
+
+.article-latest img {
+  width: 100px;
+  height: 80px;
+  padding-left: 15px;
+}
+
+.latest-deals-box1-img img {
+  width: 270px;
+  height: 150px;
 }
 
 .row-box a img {
@@ -416,20 +487,11 @@ li {
   padding: 30px;
 }
 
-.invest-card a {
-  color: black;
-}
-
 .row-box-bottom {
   background: rgb(241, 234, 231);
   height: 70px;
   font-size: 13px;
   padding: 10px;
-}
-
-.row-box-bottom a {
-  text-decoration: none;
-  color: black;
 }
 
 .story-title-source {
@@ -444,10 +506,6 @@ li {
   gap: 20px;
   margin-top: 350px;
   font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.section-v-row a {
-  text-decoration: none;
 }
 
 .v-row-image1 {
@@ -562,18 +620,10 @@ li {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.v-row-header a {
-  color: white;
-}
-
 .v-row-authors {
   display: flex;
   padding-top: 10px;
   word-spacing: 2px;
-}
-
-.v-row-authors a {
-  color: darkgray;
 }
 
 .v-row-authors time {
@@ -583,12 +633,6 @@ li {
 .article-latest {
   display: grid;
   grid-template-columns: 70% 30%;
-}
-
-.article-latest img {
-  width: 100px;
-  height: 80px;
-  padding-left: 15px;
 }
 
 .header-h5 {
@@ -604,19 +648,10 @@ li {
   font-weight: lighter;
 }
 
-.header-h4 a {
-  color: rgb(250, 117, 64);
-}
-
 .v-row-headline {
   height: 50px;
   list-style: disc;
   padding: 5px;
-}
-
-.v-row-headline a {
-  font-weight: lighter;
-  color: black;
 }
 
 /* deals */
@@ -647,16 +682,6 @@ li {
   font-weight: bold;
 }
 
-.deals-links-boxes a {
-  text-decoration: none;
-  color: silver;
-}
-
-.latest-deals-box1-img img {
-  width: 270px;
-  height: 150px;
-}
-
 /* footer */
 .footer {
   position: relative;
@@ -664,12 +689,6 @@ li {
   text-align: center;
   background-color: #131313;
   height: 300px;
-}
-
-.footer a {
-  padding: 5px 20px;
-  text-decoration: none;
-  color: #fff;
 }
 
 .footer-links {
@@ -689,16 +708,6 @@ li {
   margin-left: 420px;
 }
 
-.footer-social-links a {
-  width: 100%;
-  background: #333;
-  border-radius: 50%;
-  display: block;
-  height: 40px;
-  padding: 12px;
-  text-align: center;
-}
-
 .footer-menu-links {
   display: flex;
   justify-content: space-around;
@@ -708,15 +717,6 @@ li {
   text-align: center;
   margin-left: 520px;
   padding-top: 150px;
-}
-
-.footer-menu-links a {
-  text-decoration: none;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: darkgray;
-  font-weight: lighter;
-  font-size: 17px;
-  word-spacing: 2px;
 }
 
 .footer-legal {
