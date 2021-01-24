@@ -84,14 +84,14 @@ body {
   padding-top: 8px;
 }
 
-.nav-top li a {
-  text-decoration: none;
-  color: rgb(148, 146, 146);
-}
-
 .nav-sticky-links a {
   text-decoration: none;
   color: darkgray;
+}
+
+.nav-top li a {
+  text-decoration: none;
+  color: rgb(148, 146, 146);
 }
 
 li {
@@ -108,7 +108,7 @@ li {
   font-size: 20px;
   font-weight: lighter;
   height: 60px;
-  margin-top: 0px;
+  margin-top: 0;
   cursor: pointer;
   position: sticky;
   top: 0;
@@ -213,7 +213,6 @@ li {
   padding: 15px;
   width: 100%;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-
 }
 
 .cover-header {
@@ -224,7 +223,6 @@ li {
   padding: 15px;
   width: 100%;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-
 }
 
 .date {
@@ -320,7 +318,6 @@ li {
 .story-line li {
   margin-top: 5px;
   font-size: small;
-
 }
 
 /* latest funding rounds */
