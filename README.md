@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo The Next Web (https://el28dev.github.io/The-Next-Web-Replica/)
+[Live Demo The Next Web (https://rawcdn.githack.com/EL28DEV/The-Next-Web-Replica/264a4033ca86763a838723bc45b469204900e0b1/index.html)
 
 ## Authors
 
