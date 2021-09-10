@@ -16,8 +16,8 @@
 
 👤 **Elyor Doniyorov**
 
-- GitHub: [@githubhandle](https://github.com/EL28DEV)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elyor-doniyorov-a24631135/)
+- GitHub: [@Elyor Doniyorov](https://github.com/elyor-doniyorov)
+- LinkedIn: [@Elyor Doniyorov](https://www.linkedin.com/in/elyor-doniyorov/)
 
 👤 **Oni Olajumoke Priscilla**
 
@@ -29,7 +29,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/EL28DEV/The-Next-Web-Replica/blob/main/.github/ISSUE_TEMPLATE/custom.md).
+Feel free to check the [issues page](https://github.com/elyor-doniyorov/The-Next-Web-Replica/issues/3).
 
 ## Show your support
 
