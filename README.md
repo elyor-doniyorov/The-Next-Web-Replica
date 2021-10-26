@@ -4,13 +4,13 @@
 ![mobile view thenextweb ](https://user-images.githubusercontent.com/69638013/105520188-ab35fc80-5cda-11eb-9baa-33a4327c7702.png)
 ![responsive tnw](https://user-images.githubusercontent.com/69638013/105453078-c58ebc80-5c7f-11eb-9aaf-09147e8ccf05.png)
 
-## Built With,.
+## Built With,
 
 - HTML5 & CSS
 
 ## Live Demo
 
-[Live Demo The Next Web](https://rawcdn.githack.com/EL28DEV/The-Next-Web-Replica/264a4033ca86763a838723bc45b469204900e0b1/index.html)
+[Live Demo](https://rawcdn.githack.com/EL28DEV/The-Next-Web-Replica/264a4033ca86763a838723bc45b469204900e0b1/index.html)
 
 ## Authors
 
