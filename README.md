@@ -1,4 +1,4 @@
-# Responsive Web Design: The-Next-Web Project
+# Responsive Web Design: The-Next-Web-Project
 
 > 
 ![mobile view thenextweb ](https://user-images.githubusercontent.com/69638013/105520188-ab35fc80-5cda-11eb-9baa-33a4327c7702.png)
